@@ -221,7 +221,7 @@ public class PemesananTiketBioskopWithPoster extends JFrame {
 
         if (posterPaths[indexFilm] != null) {
             ImageIcon poster = new ImageIcon(new ImageIcon(posterPaths[indexFilm])
-                    .getImage().getScaledInstance(300, 450, Image.SCALE_SMOOTH));
+                    .getImage().getScaledInstance(180, 200, Image.SCALE_SMOOTH));
             lblPoster.setIcon(poster);
             lblPoster.setText("");
         } else {

@@ -7,6 +7,7 @@
     <list default="true" id="1f66d8ed-33d6-4615-8f69-07c93f718dbc" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../TiketBioskop/src/Kursi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TiketBioskop/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Mobil.java/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Mobil.java/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Mobil.java/.idea/modules.xml" afterDir="false" />
@@ -57,9 +58,8 @@
       <change afterPath="$PROJECT_DIR$/../../untitled1/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../untitled1/src/Mobil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../untitled1/untitled1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PemesananTiketBioskopGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PemesananTiketBioskopWithPoster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PemesananTiketBioskopWithPoster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PemesananTiketBioskopWithPoster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TugasModul1" beforeDir="false" afterPath="$PROJECT_DIR$/../../TugasModul1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
     "Application.PemesananTiketBioskopWithImageGUI.executor": "Run",
     "Application.PemesananTiketBioskopWithPoster.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ferdhie ardiansyah/IdeaProjects/DemoTugas1/UAP_Pemlan/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -105,16 +105,5 @@
       <updated>1734799027619</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PemesananTiketBioskopWithPoster.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
